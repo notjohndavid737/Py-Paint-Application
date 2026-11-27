@@ -1,4 +1,6 @@
 # My Paint Application
+Name: John David I. Dalawis
+Section: SE-3A
 
 A desktop paint program built with **Python, Tkinter and Pillow**. It started from the
 sample peach-themed Paint Application and was extended with the required features below.
